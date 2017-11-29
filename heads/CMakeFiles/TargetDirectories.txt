@@ -1,0 +1,3 @@
+/home/prakhar0409/random/vision/body_pose/Body-Parts-Detection/CMakeFiles/rebuild_cache.dir
+/home/prakhar0409/random/vision/body_pose/Body-Parts-Detection/CMakeFiles/edit_cache.dir
+/home/prakhar0409/random/vision/body_pose/Body-Parts-Detection/CMakeFiles/main.dir
